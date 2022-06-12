@@ -7,15 +7,8 @@ layout: home
 ![Scout Me In](bs_img/CubsBCCover.jpg)
 
 # [Events](/events)
-# Covid Update
-In 2020 we are still experimenting on how to handle the ever changing regulations and rules for meetings and events.
-We had our first successful pack virtual meeting Sept 8, 2020.
-
-Dens **can have** in person meetings as long as they are outdoors, with masks and hand sanitizer.
-Each Den may have their own combination of in person and virtual meetings.
-
-Pack meetings are the second Tuesday of each month at 6:00pm during the school year.
-<a href="mailto:info@pack299sandiego.org?Subject=Pack 299 Info" title="Contact us">Email us</a> for the latest info and meeting login info.
+Pack 299 will meet on the first Tuesday of each month at 6:00 pm during the 2022 school year. 
+For additional information please contact Pack 299 at <a href="mailto:info@pack299sandiego.org">info@pack299sandiego.org</a>
 
 # Membership
 
@@ -24,7 +17,7 @@ Pack meetings are the second Tuesday of each month at 6:00pm during the school y
 Grades K-5 all genders are welcomed to join our Pack.
 Kindergarten-age youth can join as [Lions](https://www.sdicbsa.org/Programs/LionProgram.php)
 
-Older Middle and High School youth can look to [Troop 299](http://troop299sd.com/)
+Middle and High School youth are encouraged to contact either Scout Troop 11 www.troop11.org or Scout Troop 260 www.troopwebhost.org/Troop260SanDiego/Index.htm
 
 [Why Join Scouting Information](https://i9peu1ikn3a16vg4e45rqi17-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/512-73520-Welcome-New-CS-Family_WEB_FPDF.pdf)
 
